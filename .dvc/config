@@ -1,0 +1,7 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/TasneemAlmasri/classification-challenge-2.dvc
+    auth = basic
+    user = TasneemAlmasri
+    password = 6b91d67eb532b72f7042ca84d43e4d42a32aaccd
